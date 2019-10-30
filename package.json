@@ -21,7 +21,7 @@
     "jade": "~1.11.0",
     "mkdir-recursive": "^0.3.0",
     "moment": "^2.18.1",
-    "morgan": "~1.8.1",
+    "morgan": "~1.9.1",
     "node-run-cmd": "^1.0.1",
     "path": "^0.12.7",
     "recursive-copy": "^2.0.8",
